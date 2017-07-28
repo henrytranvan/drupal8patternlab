@@ -4,3 +4,12 @@
  * @file
  * Functions to support theming in the Pattern Lab theme.
  */
+
+/*
+** Implement hook_page_alter
+*/
+
+function marshall_page_alter($variables) {
+
+
+}
